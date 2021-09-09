@@ -4,7 +4,10 @@ namespace AgitoChallenge
 {
     class Program
     {
+        //Constant for integer array on the first question.
         private const int ARRAY_LENGTH = 9;
+
+        //You can change the enty string for the question two here.
         private const string ENTRY_STRING = "abccddbeea";
 
         static void Main(string[] args)
